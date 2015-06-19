@@ -1,2 +1,2 @@
 # WafDemo
-An demonstration of Waf 
+An demonstration of Waf.
